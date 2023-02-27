@@ -14,6 +14,8 @@
 
 ## Mini ementa da disciplina
 
+Nessa disciplina vamos aprender a desenvolver aplicações Web com JEE, usando as mais importantes tecnologias do mercado.
+
 ## Links ingteressantes
 
 ## Bibliografia
