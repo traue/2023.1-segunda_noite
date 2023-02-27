@@ -22,6 +22,20 @@ A prova será durante a aula e será online, através do Classroom.
 
 Nessa disciplina vamos aprender a desenvolver aplicações Web com JEE, usando as mais importantes tecnologias do mercado.
 
-## Links ingteressantes
+## Links interessantes
+
+- [Curso de Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - School of Net
+- [Curso de GitHub](https://www.udemy.com/course/git-e-github-para-iniciantes/) - Udemy
+- [Cursos diversos](https://loiane.training/) - Loiane Training
+- [Guia Cyber Security](https://github.com/arthurspk/guiadecybersecurity)
+- Canais e links de YT:
+  - [Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
+  - [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
+  - [João Bibiano](https://www.youtube.com/@joaobibiano)
+  - [Mini aula de lógica de programação](https://www.youtube.com/watch?v=iF2MdbrTiBM)
+  - [Michelli Brito](https://www.youtube.com/@MichelliBrito)
+  - [Fluterando](https://www.youtube.com/@Flutterando)
+  - [Matheus Battisti](https://www.youtube.com/@MatheusBattisti)
+  - [Loiane Groner](https://youtube.com/@loianegroner/)
 
 ## Bibliografia
