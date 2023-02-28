@@ -10,6 +10,12 @@
 
 ## Preparação do ambiente de desenvolvimento
 
+A preparação do ambiente de desenvolvimento é bastante simples, mas requer bastante atenção aos detalhes.
+
+Nas primeiras aulas do semestre fizemos juntos a preparação do ambiente [NESTE LINK](https://docs.google.com/document/d/1y7XJB_FFgcmMTy9i6klWDqHrPX26K3Q6k5E6L_ASMxQ/edit?usp=sharing)
+
+Use o e-mail institucional para acessar o documento acima.
+
 ## Critérios de avaliação
 
 Teremos apenas uma única avaliação de múltipla escolha no semestre, além da Avaliação Integrada.
