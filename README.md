@@ -39,3 +39,11 @@ Nessa disciplina vamos aprender a desenvolver aplicações Web com JEE, usando a
   - [Loiane Groner](https://youtube.com/@loianegroner/)
 
 ## Bibliografia
+
+- Programação orientada a objetos com JAVA sem mistérios, Teruel, E., disponível no catálogo da Uninove
+- [Java: como programar](https://plataforma.bvirtual.com.br/Acervo/Publicacao/39590), Deitel
+- [Head First Java, 3rd Edition](https://learning.oreilly.com/library/view/head-first-java/9781492091646/)
+- [Java Programming for Complete Beginners](https://learning.oreilly.com/videos/java-programming-for/9781838556976/)
+- Clean Code
+- O programador pragmático
+- Clean Architecture
