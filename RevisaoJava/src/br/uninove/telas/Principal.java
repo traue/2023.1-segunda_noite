@@ -56,6 +56,6 @@ public class Principal {
 
         float resultado = 3 + 5 * 4; //23
         resultado = (3 + 5) * 4; //32
-
+        //paramos aqui...
     }
 }
